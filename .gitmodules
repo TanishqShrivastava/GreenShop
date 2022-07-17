@@ -1,0 +1,3 @@
+[submodule "GreenShopUi"]
+	path = GreenShopUi
+	url = git@github.com:TanishqShrivastava/GreenShopUi.git
